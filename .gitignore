@@ -1,0 +1,19 @@
+# Compilation and build outputs
+build/
+test_runner
+tools/train_tree_test.py
+
+# Objects and binaries
+*.o
+*.d
+*.bin
+*.elf
+*.map
+*.a
+*.so
+
+# Python virtual environment and cache
+__pycache__/
+*.pyc
+.venv/
+venv/
